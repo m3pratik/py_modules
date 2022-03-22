@@ -1,4 +1,5 @@
-import myMath
+from re import M
+import myMath as m
 
-myMath.sum(10,20)
-myMath.mul(10,20)
+m.sum(10,20)
+m.mul(10,20)
